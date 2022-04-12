@@ -1,0 +1,58 @@
+body{
+	background-image: url("dog.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+ol > li {
+	/*float: none;*/
+	margin: 10px;
+	list-style: none;
+}
+ol{
+	float: right;
+}
+
+li{
+	float: inherit;
+}
+
+
+
+
+.box1{
+	background-color: lightblue;
+	height: 10vh;
+	margin-bottom: 20px;
+
+}
+
+.mother{
+	display: flex;
+	width: 100%;
+	background-color: blueviolet;
+	height: 75vh;
+	/*justify-content: space-between;*/
+	align-content: flex-start;
+
+
+}
+
+.mother >div{
+	width: 27%;
+	background-color: red;
+	height: 50vh;
+	margin: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+

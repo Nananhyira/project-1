@@ -1,0 +1,74 @@
+	td
+		{
+			border: 2px solid black;
+			border-radius: 40px;
+			
+		}
+
+		tr,td,th {
+			border: 2px solid purple;
+		}
+		
+
+
+		.tab{
+			background-color: blue;
+		}
+
+		#tab{
+			font-size: 50px;
+			font-family: verdana;
+			color: indigo;
+
+		}
+		.new-table{
+			border: 2px black solid;
+			margin-left: 5px;
+			padding: 50px;
+
+			
+
+		}
+		h1.register{
+			background-color: blue;
+		}
+		div > h1{
+			background-color: red;
+		}
+		input{
+			font-size: 40px;
+			margin: 5px;
+			width: 50%;
+		}
+		label{
+			display: block;
+		}
+
+		body{
+			background-image: url("dog.jpeg");
+			background-repeat: no-repeat;
+			
+			background-attachment: fixed;
+			background-position: center;
+			background-size: cover;
+		}
+
+		form{
+			border: solid indigo 3px;
+			margin: 10px;
+			padding: 20px;
+		}
+		table{
+			width: 50%;
+			height: 70vh;
+		}
+		body{
+			font-family: 'Noto Sans JP', sans-serif;
+			font-family: 'Oswald', sans-serif;
+		}
+
+
+		tr,td,th {
+			border: 2px solid purple;
+		}
+		
